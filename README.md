@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ramasubramanian B
-- 👀 I’m interested in coding.
+- 👀 I’m interested in.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on various rpojects.
 - 📫 How to reach me: E-mail- bramasubramanian190@gmail.com
